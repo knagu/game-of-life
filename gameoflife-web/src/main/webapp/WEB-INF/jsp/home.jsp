@@ -65,7 +65,7 @@
 
 <div class="intro">
     <p>This is a really cool web version of DAC's famous Game Of
-        Life..!!</p>
+        Life...!!</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
