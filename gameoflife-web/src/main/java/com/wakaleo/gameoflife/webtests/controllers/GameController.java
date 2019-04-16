@@ -69,7 +69,7 @@ public class GameController {
 	//LOGGER.log(Level.WARN, "Interrupted!", e);
     // Restore interrupted state...
     Thread.currentThread().interrupt();
-            e.printStackTrace();
+          //  e.printStackTrace();
         }
     }
 
