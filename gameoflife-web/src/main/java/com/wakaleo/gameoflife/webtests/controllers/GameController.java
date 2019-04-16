@@ -66,10 +66,10 @@ public class GameController {
         try {
             Thread.currentThread().sleep(thinkingTime);
         } catch (InterruptedException e) {
-	//LOGGER.log(Level.WARN, "Interrupted!", e);
+	
     // Restore interrupted state...
     Thread.currentThread().interrupt();
-          //  e.printStackTrace();
+          
         }
     }
 
