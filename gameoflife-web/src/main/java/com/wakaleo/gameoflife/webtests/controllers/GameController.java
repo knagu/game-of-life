@@ -69,6 +69,7 @@ public class GameController {
 	
     // Restore interrupted state...
     Thread.currentThread().interrupt();
+	e.printStackTrace();	
           
         }
     }
