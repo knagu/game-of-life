@@ -64,7 +64,7 @@ public class GameController {
     private void thinkABit(final int max) {
         int thinkingTime = getRandomGenerator().nextInt(max / 4);
         try {
-            Thread.currentThread().sleep(thinkingTime);
+            //Thread.currentThread().sleep(thinkingTime);
         } catch (InterruptedException e) {
 	
     // Restore interrupted state...
