@@ -73,7 +73,7 @@
         states, live or dead. Every cell interacts with its eight neighbors,
         which are the cells that are directly horizontally, vertically, or
         diagonally adjacent. At each step in time, the following transitions
-        occur:
+        occur:++++++++++++++++++++++
     <ul>
         <li>Any live cell with fewer than two live neighbours dies, as if
             caused by underpopulation.
