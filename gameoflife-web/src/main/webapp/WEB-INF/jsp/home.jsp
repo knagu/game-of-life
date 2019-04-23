@@ -76,8 +76,9 @@
         occur:
     <ul>
         <li>Any live cell with fewer than two live neighbours dies, as if
-            caused by underpopulation//
+            caused by underpopulation..
         </li>
+        <!--web hooks -->
         <li>Any live cell with more than three live neighbours dies, as if
             by overcrowding.
         </li>
