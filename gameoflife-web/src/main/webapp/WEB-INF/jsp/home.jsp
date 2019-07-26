@@ -64,7 +64,7 @@
 <h2>Welcome to DevOps Game Of Life!</h2>
 
 <div class="intro">
-    <p>This is a really cool web version of DAC's famous Game Of
+    <p>This is a really cool web version of DevOps famous Game Of
         Life...!!!</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
