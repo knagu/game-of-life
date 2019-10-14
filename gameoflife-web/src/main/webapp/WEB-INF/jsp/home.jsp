@@ -108,7 +108,7 @@
         }
     }
 %>
-<div class="footer">Game Of Life version <%=appVersion%>
-</div>
+    
+
 </body>
 </html>
