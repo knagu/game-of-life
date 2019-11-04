@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to DevOps Demo for Asset Tracker</h2>
+<h2>Welcome to DevOps Demo for APT</h2>
 
 <div class="intro">
     <p>This is a really cool web version of DevOps famous Game Of
