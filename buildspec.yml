@@ -22,7 +22,4 @@ phases:
     commands:
       - echo Entered the post_build phase...
       - echo Build completed on `date`
-  artifacts:
-  files:
-    - target/messageUtil-1.0.jar
-  discard-paths: yes
+
