@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to DevOps Demo for TVROCS and SPOT</h2>
+<h2>Welcome to DevOps Demo for reCAP</h2>
 
 <div class="intro">
     <p>This is a really cool web version of DevOps famous Game Of
