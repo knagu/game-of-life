@@ -1,15 +1,9 @@
-pipeline {
-    agent any
-    stages {
-      stage ('Checkout') {
-        steps {
-          git 'https://github.com/knagu/game-of-life.git'
-        }
-      }
-      stage ('Build') {
-        steps {
-          sh 'mvn clean package'
-        }
-      }
+@Library('jenkins-shared-library')_
+node {
+    stage('GitSCM')
+	  {
+		  git url: 'https://github.com/knagu/game-of-life.git'
+	  }
+    example()
+      //example Test: false
     }
-}
