@@ -8,5 +8,5 @@ node {
 		  git url: 'https://github.com/knagu/game-of-life.git'
 	  }
     example()
-      //example Test: false
+      
     }
